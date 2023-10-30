@@ -24,7 +24,7 @@ e-learning application in this directory:
 # Compatibility
 * Python 2.7
 * Django 1.9
-* SQLite, PostgreSQL, MySQL
+* SQLite, PostgreSQL, MySQL.
 
 # Notes
 * This project uses third-party library tinymce (https://www.tinymce.com/) with own licence
